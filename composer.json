@@ -1,0 +1,23 @@
+{
+  "name": "strongknit/file-reader",
+  "description": "Unified interface for reading files line by line",
+  "version": "1.0.0",
+  "type": "library",
+  "keywords": [
+    "file",
+    "csv",
+    "xls",
+    "reader"
+  ],
+  "license": "MIT",
+  "require": {
+    "php": ">=7.0",
+    "phpoffice/phpspreadsheet": "~1.7.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {"Strongknit\\FileReader\\": "./src/"}
+  }
+}
