@@ -1,6 +1,6 @@
 <?php
 
-namespace Strrongknit\FileReader;
+namespace Strongknit\FileReader;
 
 use PhpOffice\PhpSpreadsheet\IOFactory;
 use PhpOffice\PhpSpreadsheet\Settings;

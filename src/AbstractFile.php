@@ -1,6 +1,6 @@
 <?php
 
-namespace Strrongknit\FileReader;
+namespace Strongknit\FileReader;
 
 use Iterator;
 
